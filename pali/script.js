@@ -5,3 +5,9 @@ var parola = prompt("Inserisci la parola");
 console.log(parola);
 
 // devo fare la differenza tra una parola normale e una palindroma
+function checkPalindrom(palindrom) {
+
+for (var i = palindrom.length; i > 0; i--)
+
+if( palindrom[i])
+}
